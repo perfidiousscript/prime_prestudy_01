@@ -1,0 +1,16 @@
+h1 {
+	color:#AA0000;
+	font-size: 72px;
+	font-weight: bold;
+}
+
+section {
+	text-align: center;
+	height: 50%;
+	width: 80%;
+	box-shadow: 5px 5px;
+}
+
+body {
+	background-color: #000077;
+}
